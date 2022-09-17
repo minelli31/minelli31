@@ -7,18 +7,18 @@
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rminelli&hide=html&layout=compact&theme=monokai" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=rminelli&theme=monokai" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minelli31&hide=html&layout=compact&theme=monokai" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=minelli31&theme=monokai" /></td>
   </tr>  
     <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rminelli&repo=einstein.kb&theme=monokai" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rminelli&repo=cube.js&theme=monokai" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=minelli31&repo=einstein.kb&theme=monokai" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=minelli31&repo=cube.js&theme=monokai" /></td>
   </tr>  
 </table>
 </center>
 
 <!--
-**rminelli/rminelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**minelli31/minelli31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
