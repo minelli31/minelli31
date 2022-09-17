@@ -7,9 +7,9 @@
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top/?username=minelli31&hide=html&layout=compact&theme=prussian" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minelli31&hide=html&layout=compact&theme=prussian" /></td>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=minelli31&theme=prussian" /></td>
-  </tr>  
+  </tr> 
 </table>
 </center>
 
