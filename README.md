@@ -1,6 +1,6 @@
 ### Hardtware Engineer 
-✝️ | Get wisdom, get understanding;
-     Forget not, neither decline from the words of my mouth; Proverbs 4:5
+✝️ | "Get wisdom, get understanding;
+     Forget not, neither decline from the words of my mouth;" Proverbs 4:5
 
 💾 | "All that is not eternal is eternally out of date." C.S. Lewis,
 
