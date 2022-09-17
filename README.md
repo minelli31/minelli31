@@ -1,4 +1,4 @@
-### Hardtware Engineer 
+### Hardware Engineer 
 ✝️ | "Get wisdom, get understanding;
      Forget not, neither decline from the words of my mouth;" Proverbs 4:5
 
