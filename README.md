@@ -1,7 +1,7 @@
 ### Hardware Engineer 
-✝️ | "Let all that ye do be done in love." 1 Corinthians 16:14
+✝️ | "Let all that ye do be done in love" 1 Corinthians 16:14
 
-💾 | "All that is not eternal is eternally out of date." C.S. Lewis
+💾 | "All that is not eternal is eternally out of date" C.S. Lewis
 
 <center>
 <table>
